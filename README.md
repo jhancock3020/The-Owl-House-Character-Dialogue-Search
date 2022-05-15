@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-A web scrapper tool made for saving dialogue of a selected character from Owl House transcripts found at https://theowlhouse.fandom.com/wiki/Category:Transcripts to a text file.
+A web scraper tool made for saving dialogue of a selected character from Owl House transcripts found at https://theowlhouse.fandom.com/wiki/Category:Transcripts to a text file.
 
 **Requirements to run this program:**
 * Chrome browser is installed
